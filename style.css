@@ -1,0 +1,6 @@
+.carousel-inner img {
+    height: 500px; /* Ajuste a altura conforme necessário */
+    width: 100%;
+    object-fit: cover; /* Isso ajusta a imagem para preencher a área sem distorção */
+}
+
